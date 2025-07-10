@@ -1,1 +1,2 @@
 # Youtube_chatbot
+Developed an intelligent chatbot that extracts and processes YouTube video transcripts, generates semantic embeddings using Hugging Face models, and retrieves relevant context using FAISS and LangChain’s RetrievalQA for accurate, context-aware answers. Integrated multilingual capabilities in English, Hindi, and German using Hugging Face translation pipelines, enabling real-time, language-flexible question answering on diverse video content.It allows the user to access the content of the video by just typing the video_id.
